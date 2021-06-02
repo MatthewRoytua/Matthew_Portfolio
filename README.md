@@ -1,5 +1,5 @@
 # Matthew_Portfolio
-Data analysis and data science portfolio
+Data analyst and data science portfolio
 
 # [Project 1: Data Exploration: Project Overview](https://github.com/MatthewRoytua/Projects/tree/main/Project_1)
 Explore 5 high level business questions related to the data with Pandas and Data Viz (seaborn, matplotlib):
@@ -10,7 +10,7 @@ Explore 5 high level business questions related to the data with Pandas and Data
 * What products are most often sold together?
 * What product sold the most?
 
-![](https://github.com/MatthewRoytua/Matthew_Portfolio/blob/main/images/comparison.png)
+![](/images/comparison.png)
 
 
 # [Project 2: Titanic Survivor Classifier: Project Overview](https://github.com/MatthewRoytua/Projects/tree/main/Project_2)
@@ -20,4 +20,4 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 In this challenge, I build a predictive model that answers the question: “What sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-![](https://github.com/MatthewRoytua/Matthew_Portfolio/blob/main/images/accuracy_score.png)
+![](/images/accuracy_score.png)
