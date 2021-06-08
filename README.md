@@ -16,8 +16,20 @@ Explore 5 high level business questions related to the data with Pandas and Data
 # [Project 2: Titanic Survivor Classifier: Project Overview](https://github.com/MatthewRoytua/Projects/tree/main/Project_2)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, 
+there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
-In this challenge, I build a predictive model that answers the question: “What sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+In this challenge, I build a predictive model that answers the question: “What sorts of people were more likely to survive?” 
+using passenger data (ie name, age, gender, socio-economic class, etc).
 
 ![](/images/accuracy_score.png)
+
+
+# [Project 3: Data Exploration: Project Overview](https://github.com/MatthewRoytua/Projects/tree/main/Project_3)
+
+From the data provided from [Our World in Data](https://ourworldindata.org/covid-deaths), explore the spread of infection and 
+death worldwide caused by Covid-19 using [Microsoft SQL Server](https://github.com/MatthewRoytua/Projects/blob/main/Project_3/Covid_Portfolio_Project.sql).
+And create a simple dashboard using [Tableu Public](https://public.tableau.com/app/profile/matthew5246/viz/CovidDashboard_16231640872460/Dashboard1)
+
+![](/images/coviddash.JPG)
